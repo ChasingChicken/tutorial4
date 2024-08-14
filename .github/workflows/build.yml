@@ -1,6 +1,0 @@
-mvn clean test 
-
-As
- # Run tests
-      - name: Run tests
-        run: mvn clean test
